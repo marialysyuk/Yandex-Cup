@@ -5,4 +5,9 @@
 
 Вероятность того, что человек не захочет прийти на вечеринку равняется:
 
-<img src="https://render.githubusercontent.com/render/math?math=1-\frac{x}{x^2-5x%2B\10}">
+<img src="https://render.githubusercontent.com/render/math?math=1-\frac{x}{x^2-5x%2B\10}">.
+
+Соответственно, вероятность того, что никто не захочет прийти на вечеринку равняется
+
+<img src="https://render.githubusercontent.com/render/math?math=(1-\frac{x}{x^2-5x%2B\10})^x">.
+
