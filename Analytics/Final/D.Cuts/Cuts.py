@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[17]:
-
-
 def compatible_cuts(nums):
     temp = []
     for elem in nums:
