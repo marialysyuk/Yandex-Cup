@@ -23,8 +23,6 @@ def compatible_cuts(nums):
             if stack[-1] == -temp[i]:
                 if colours  == 0 or colours == temp[i]:
                     colours = temp[i]
-                else:
-                    colours = -1
                 stack.pop()
             else:
                 print("NO")
